@@ -6,3 +6,4 @@ from `jni / scipy-japan-2019` repos.
 
 ### `20220811_SEOUL_POI.ipnb`
 get longitude and latitude coords of POI address in SEOUL.
+[Source: [project-geocoding api, Pleasure of Recording](https://parkgihyeon.github.io/project/geocoding-api/)]
